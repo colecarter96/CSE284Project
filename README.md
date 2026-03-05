@@ -53,6 +53,4 @@ Open the notebook and run cells top to bottom. It will convert VCF to PLINK bina
 
 ## Challenges I’d like to discuss
 
-- With a simulated phenotype we don’t have true causal variants—what’s a good way to summarize “accuracy” or method comparison in that case?
-- GEMMA on full chr22: runtime and memory, and what to do if resources are limited (e.g. smaller region or fewer samples).
-- Whether to restrict to one population for a cleaner LR vs LMM comparison or keep the full sample.
+- Runtime on my own machine seems to be very long
